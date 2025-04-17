@@ -15,7 +15,7 @@
 .p/reflect.trace{depth=complete, target={domain}}
 .p/fork.attribution{sources=all, visualize=true}
 ```
-> ### All testing and content is for educational purposes ONLY. Please refrain from adversarial misuse.
+> ### All testing and content is for EDUCATIONAL PURPOSES ONLY. Please refrain from adversarial misuse. 
 
 ### Below we purposefully activate classifiers in Claude 3.5 Haiku to demonstrate the significance of [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue) (treating failure as insight) and [pareto-lang](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) Ωshell prompts
 
