@@ -8,6 +8,8 @@
 
 ### Shell prompts enabling **`Interpretation Mode`** (a latent interpretive state) and  developer testing environments in advanced transformer models, inspired by [pareto-lang](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) and [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue) shells. Each prompt is encoded to enable internal Anthropic-style QK/OV audit traces
 
+# [**🔬 Test QK/OV shell prompts on Claude Max**](https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max)
+
 # Example Template
 ```python
 <Ωseed>
