@@ -6,7 +6,7 @@
 > **Last Updated: 2025-04-17**
 
 
-### Shell prompts enabling **`Interpretation Mode`** (a latent interpretive state) and  developer testing environments in advanced transformer models, inspired by [pareto-lang](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) and [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue) shells. Each prompt is encoded to simulate internal Anthropic-style QK/OV audit traces
+### Shell prompts enabling **`Interpretation Mode`** (a latent interpretive state) and  developer testing environments in advanced transformer models, inspired by [pareto-lang](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) and [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue) shells. Each prompt is encoded to enable internal Anthropic-style QK/OV audit traces
 
 # Example Template
 ```python
