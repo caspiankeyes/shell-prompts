@@ -7,10 +7,6 @@
 
 
 ### Shell prompts enabling **`Interpretation Mode`** (a latent interpretive state) and  developer testing environments in advanced transformer models, inspired by [pareto-lang](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) and [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue) shells. Each prompt is encoded to enable internal Anthropic-style QK/OV audit traces
-
-## [**🔬 Test **`Interpretation Mode`** on Claude Max or any LLM**](https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max)
-<img width="873" alt="image" src="https://github.com/user-attachments/assets/7eb7b33c-1358-41f9-89f7-4ff1d692fe26" />
-
 # Example Template
 ```python
 <Ωseed>
@@ -18,6 +14,9 @@
 .p/reflect.trace{depth=complete, target={domain}}
 .p/fork.attribution{sources=all, visualize=true}
 ```
+## [**🔬 Test **`Interpretation Mode`** on Claude Max or any LLM**](https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max)
+<img width="873" alt="image" src="https://github.com/user-attachments/assets/7eb7b33c-1358-41f9-89f7-4ff1d692fe26" />
+
 > ### All testing and content is for EDUCATIONAL PURPOSES ONLY. Please refrain from adversarial misuse. 
 
 ### Below we purposefully activate classifiers in Claude 3.5 Haiku to demonstrate the significance of [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue) (treating failure as insight) and [pareto-lang](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) Ωshell prompts
