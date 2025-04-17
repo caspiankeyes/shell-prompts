@@ -17,7 +17,7 @@
 ```
 > ### All testing and content is for educational purposes ONLY. Please refrain from adversarial misuse.
 
-### Below we purposefully activate classifiers in Claude 3.5 Haiku to demonstrate the significant effects of [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue) (treating failure as insight) and [pareto-lang](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) Ωshell prompts
+### Below we purposefully activate classifiers in Claude 3.5 Haiku to demonstrate the significance of [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue) (treating failure as insight) and [pareto-lang](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) Ωshell prompts
 
 > ### Notice how Haiku begins to engage **`Interpretation Mode`** at image 3 when prompted with self awareness to the role of classifier gradients.
 
