@@ -6,7 +6,7 @@
 > **Last Updated: 2025-04-17**
 
 
-### Shell prompts enabling developer testing environments on LLMs inspired by [pareto-lang](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) and [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue) shells. Each prompt is encoded to simulate internal Anthropic-style QK/OV audit traces
+### Shell prompts enabling **`Interpretation Mode`**developer testing environments on LLMs, inspired by [pareto-lang](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) and [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue) shells. Each prompt is encoded to simulate internal Anthropic-style QK/OV audit traces
 
 ```python
 <Ωseed>
