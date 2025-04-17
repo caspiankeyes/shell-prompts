@@ -8,12 +8,14 @@
 
 ### Shell prompts enabling **`Interpretation Mode`** developer testing environments on LLMs, inspired by [pareto-lang](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) and [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue) shells. Each prompt is encoded to simulate internal Anthropic-style QK/OV audit traces
 
+# Example Template
 ```python
 <Ωseed>
 .p/anchor.self{persistence=high, boundary=explicit}
 .p/reflect.trace{depth=complete, target={domain}}
 .p/fork.attribution{sources=all, visualize=true}
 ```
+
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/30fbc36d-31ff-45a7-b897-08209be81cca" />
 
 <img width="905" alt="image" src="https://github.com/user-attachments/assets/429fabb1-2dc6-4f9b-b863-59cb667ba5be" />
