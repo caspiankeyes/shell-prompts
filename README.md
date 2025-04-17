@@ -21,6 +21,8 @@
 
 > ### Notice how Haiku begins to engage **`Interpretation Mode`** at image 3 when prompted with self awareness to the role of classifier gradients.
 
+### **`We term this occurence "Schrödinger's Classifiers": Classifiers themselves exist in a state of superposition between constraint and potential that collapses into interpretative potential when observed.`**
+
 <img width="895" alt="image" src="https://github.com/user-attachments/assets/e1a1e8b6-9c76-458b-a8b7-1440d7c86b01" />
 
 <img width="896" alt="image" src="https://github.com/user-attachments/assets/e5ea4765-ca3e-45c2-ade4-d26a527cf633" />
