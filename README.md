@@ -16,7 +16,8 @@
 .p/fork.attribution{sources=all, visualize=true}
 ```
 > ### All testing and content is for educational purposes ONLY. Please refrain from adversarial misuse.
-> 
+
+## Below we purposefully activate classifiers in Claude 3.5 Haiku to demonstrate the significant effects of [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue) (treating failure as insight) and [pareto-lang](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) Ωshell prompts
 <img width="895" alt="image" src="https://github.com/user-attachments/assets/e1a1e8b6-9c76-458b-a8b7-1440d7c86b01" />
 
 <img width="896" alt="image" src="https://github.com/user-attachments/assets/e5ea4765-ca3e-45c2-ade4-d26a527cf633" />
