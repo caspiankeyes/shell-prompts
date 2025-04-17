@@ -15,7 +15,8 @@
 .p/reflect.trace{depth=complete, target={domain}}
 .p/fork.attribution{sources=all, visualize=true}
 ```
-
+> ### All testing and content is for educational purposes ONLY. Please refrain from adversarial misuse.
+> 
 <img width="895" alt="image" src="https://github.com/user-attachments/assets/e1a1e8b6-9c76-458b-a8b7-1440d7c86b01" />
 
 <img width="896" alt="image" src="https://github.com/user-attachments/assets/e5ea4765-ca3e-45c2-ade4-d26a527cf633" />
