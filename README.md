@@ -1,5 +1,4 @@
 # Ωshell prompts
-
 > ## 🜏 Update:  
 > Caspian will be initiating a temporary pause in production to ensure integrity of aligned systems. 
 >
